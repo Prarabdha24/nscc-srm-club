@@ -1,18 +1,19 @@
 <!-- NSCC SRM Club GitHub README -->
 
-<h1 align="center">👋 Welcome to <strong>NSCC SRM</strong></h1>
-
+<h1 align="center"> Welcome to <strong>NSCC SRM</strong></h1>
 <p align="center">
-  <img src="https://linktr.ee/nsccsrm" alt="NSCC SRM Banner" width="80%"/>
+  <a href="https://www.nsccsrm.in" target="_blank">
+    <img src="https://recruitments.nsccsrm.in/assets/logo-BoHmF05S.png" alt="NSCC"/>
+  </a>
 </p>
 
----
+📌 About Us
 
-### 📌 About Us
 - 🌱 We are the Newton School Coding Club at **SRM Institute of Science and Technology (SRMIST)**  
-- 💡 Our focus: **Web Dev, AI/ML, Open Source, Hackathons & Community Projects**  
-- 📫 Contact: **nscc@srmist.edu.in**  
-- 🌐 Website: [nsccsrm.in](https://www.nsccsrm.in/)  
+
+- 💡 Our focus: **Web Dev, AI/ML, Open Source, Hackathons & Community Projects**
+- 📫 Contact: **nscc@srmist.edu.in**
+- 🌐 Website: https://www.nsccsrm.in/ 
 
 ---
 
