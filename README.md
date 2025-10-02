@@ -3,7 +3,7 @@
 <h1 align="center">👋 Welcome to <strong>NSCC SRM</strong></h1>
 
 <p align="center">
-  <img src="[YOUR_BANNER_LINK](https://recruitments.nsccsrm.in/)" alt="NSCC SRM Banner" width="80%"/>
+  <img src="(https://recruitments.nsccsrm.in/)" alt="NSCC SRM Banner" width="80%"/>
 </p>
 
 ---
@@ -40,14 +40,6 @@
   <img src="https://img.icons8.com/color/48/nodejs.png" alt="Node.js"/>
   <img src="https://img.icons8.com/color/48/react-native.png" alt="React"/>
   <img src="https://img.icons8.com/color/48/github.png" alt="GitHub"/>
-</p>
-
----
-
-### 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NSCC-SRM&show_icons=true&theme=radical" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSCC-SRM&layout=compact&theme=radical" alt="Top Languages" height="160"/>
 </p>
 
 ---
