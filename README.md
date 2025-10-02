@@ -3,7 +3,7 @@
 <h1 align="center">👋 Welcome to <strong>NSCC SRM</strong></h1>
 
 <p align="center">
-  <img src="(https://recruitments.nsccsrm.in/)" alt="NSCC SRM Banner" width="80%"/>
+  <img src="https://linktr.ee/nsccsrm" alt="NSCC SRM Banner" width="80%"/>
 </p>
 
 ---
